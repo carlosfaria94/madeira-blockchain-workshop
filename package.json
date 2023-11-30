@@ -1,0 +1,19 @@
+{
+  "name": "madeira-blockchain-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alchemy/aa-core": "^0.1.0-alpha.23",
+    "@zerodev/sdk": "^4.3.4",
+    "dotenv": "^16.3.1",
+    "viem": "^1.19.9"
+  }
+}
